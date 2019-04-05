@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>homescreen/homebg_bottom.svg</file>
+        <file>camera/camera_bg.svg</file>
+        <file>camera/camerainfo_bg.svg</file>
+    </qresource>
+</RCC>
